@@ -1,0 +1,13 @@
+{
+  "name": "all-in-leorningcild",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "bun@1.2.15",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "4.77.0"
+  }
+}
